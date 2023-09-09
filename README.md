@@ -5,3 +5,4 @@ The summary is generated in such a way that first time summary is generated then
 The whole code will remain the same. Only the model for summary generation and its parameter will be replaced according to the model requirements.
 A formula is written in model summary genertion code. which will help to generates the final summary which will not be more then 6000 words which will be less then 20 pages.
 Then the final summary is converted into docx with good alignment and justification and fonts and converted into pdf so that user could have good reading experience.
+
